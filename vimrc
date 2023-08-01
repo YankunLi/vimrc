@@ -622,7 +622,7 @@ inoremap <F12> <Esc>:call ToggleMouse()<CR>a
 
 "indentLine
     " let g:indentLine_char = '┆'
-    let g:indentLine_char = '¦'
+    let g:indentLine_char = ''
 
 "vim-visual-star-search
     "This plugin allows you to select some text using Vim's visual mode, then hit
